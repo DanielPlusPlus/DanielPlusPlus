@@ -1,9 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
-
 <h1 align="center">BSc Daniel Cieślak</h1>
 <h3 align="center">Student of the Kielce University of Technology</h3>
 
